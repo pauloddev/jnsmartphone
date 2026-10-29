@@ -7,7 +7,7 @@ export const asset = (p: string) => `${B}${p}`
 /* ---------- Contato ---------- */
 // WhatsApp com DDI + DDD, só números (ex.: '5587999999999').
 // Enquanto estiver vazio, os botões abrem o Direct do Instagram.
-export const WHATSAPP = ''
+export const WHATSAPP = '5587981390046'
 
 export const STORE = {
   name: 'JN Smartphone',
